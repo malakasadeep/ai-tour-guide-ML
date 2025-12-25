@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Bash(dir /S /B \"d:\\\\SLIIT\\\\RP\\\\project\\\\ai-tour-guide-backend\")"
+    ]
+  }
+}

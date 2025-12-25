@@ -3,3 +3,6 @@ vector_db/
 *.env
 .env.*
 !.env.example
+*.csv
+*.sqlite3
+*.log
